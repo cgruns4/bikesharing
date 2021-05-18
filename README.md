@@ -18,7 +18,7 @@ the program in Des Moines.
 ## Analysis Results of Checkout times on Bikesharing Data:
 - Bikes were most often used for short duration trips.  The explanation for this is likely that the intended use was for commuting, or getting from 
   point A to point B, and less so for casual enjoyment.
-- Checkout times by gender point to a more elevated use for the service by males.
+- Checkout times by gender point to a more elevated use of the service by males.
 
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/71041680/118581192-355d1180-b75f-11eb-9617-fd304ff58182.png)
@@ -28,8 +28,8 @@ the program in Des Moines.
 
 
 ## Analysis Results of Gender on Bikesharing Data:
-- T
-- T
+- As the heatmap indicates, the number of users/subscribers is significantly skewed towards males for use on weekdays.
+- Additionally, males will also bikshare for a longer duration than their female counterparts.
 
 
 ![User Trips by Gender (by Weekday)](https://user-images.githubusercontent.com/71041680/118581152-21b1ab00-b75f-11eb-9ae7-4690f8690d02.png)
@@ -40,9 +40,8 @@ the program in Des Moines.
 
 
 ## Analysis Results of Start/End Location on Bikesharing Data:
-- 
-- The starting and ending locations for bike trips indicate that the 'commuters' live a relative short distance from their office and either communted back
-  and forth via bike, or just one way.
+- The starting and ending locations for bike trips indicate that the 'commuters' live a relative short distance from their office, and either communted back
+  and forth via bike, or just used the service one way.
 
 ![Top Starting Locations](https://user-images.githubusercontent.com/71041680/118581071-fdee6500-b75e-11eb-9e8d-85791f0b2bc2.png)
 
@@ -50,10 +49,11 @@ the program in Des Moines.
 
 
 
+## STRATEGIVE RECOMMENDATIONSS:
+- Budget to improve marketing to females.
+- Improve marketing in use of bikesharing for leisure opportunities.
 
-## STRATEGIVE RECOMMENDATIONS & SUGGEST VISUALIZATIONS:
-- I 
-- M
-
-
+## SUGGESTED VISUALIZATIONS:
+- It would be helpful to breakdown the user data to the level os user and subscriber to determine how much their recurring revenue stream is. 
+- It would also be useful to visualize the associated costs with bike repairs, and how often repairs are needed in order to budget for the maintenance. 
 
