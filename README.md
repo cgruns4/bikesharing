@@ -4,7 +4,7 @@
 The purpose of this projecct is.....
 
 
-[link to tableau story](https://public.tableau.com/profile/christopher.grunsfeld#!/vizhome/NYCCitibikeanalysis_16213006277470/NYCCitibikeAnalysisStory)
+[link to NYC Citibike Analysis Story Tableau Story](https://public.tableau.com/profile/christopher.grunsfeld#!/vizhome/NYCCitibikeanalysis_16213006277470/NYCCitibikeAnalysisStory)
 
 
 Subsequently, after building many more relational databases, I was able to get to the analysis at hand.
