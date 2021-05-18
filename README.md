@@ -16,8 +16,9 @@ the program in Des Moines.
 
 
 ## Analysis Results of Checkout times on Bikesharing Data:
-- B
-- T
+- Bikes were most often used for short duration trips.  The explanation for this is likely that the intended use was for commuting, or getting from 
+  point A to point B, and less so for casual enjoyment.
+- Checkout times by gender point to a more elevated use for the service by males.
 
 
 ![Checkout Times for Users](https://user-images.githubusercontent.com/71041680/118581192-355d1180-b75f-11eb-9617-fd304ff58182.png)
@@ -39,8 +40,7 @@ the program in Des Moines.
 
 
 ## Analysis Results of Start/End Location on Bikesharing Data:
-- Bike were most significantly used for short duration trips.  The explanation for this is likely that that usage for for commuting, or getting from 
-  point A to point B, and less so for casual enjoyment.
+- 
 - The starting and ending locations for bike trips indicate that the 'commuters' live a relative short distance from their office and either communted back
   and forth via bike, or just one way.
 
