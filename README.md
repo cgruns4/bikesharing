@@ -1,18 +1,17 @@
 # BIKESHARING
 
 ## Project Overview
-The purpose of this projecct is.....
+The purpose of this project is to provide a bike trip analysis on data from NYC for for potential investors to determine whter or not they would like to replicate 
+the program in Des Moines.
 
 
 [link to NYC Citibike Analysis Story Tableau Story](https://public.tableau.com/profile/christopher.grunsfeld#!/vizhome/NYCCitibikeanalysis_16213006277470/NYCCitibikeAnalysisStory)
 
 
-Subsequently, after building many more relational databases, I was able to get to the analysis at hand.
-
-## Statistical Analysis of NYC Bikesharing Data:
-- U
-- T
-- I
+## Statistical Findings of NYC Bikesharing Data:
+- Males are more likely to utilize the bikesharing program
+- The most popular times to start & stop rentals are during the morning and evening commutes to/from work.
+- The popularity of the bikesharing service was more pronounced in the areas of corporate offices.
 
 
 
