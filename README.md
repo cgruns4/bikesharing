@@ -4,6 +4,8 @@
 The purpose of this projecct is.....
 
 
+[link to dashboard](https://public.tableau.com/profile/christopher.grunsfeld#!/vizhome/NYCCitibikeanalysis_16213006277470/NYCCitibikeAnalysisStory)
+
 
 Subsequently, after building many more relational databases, I was able to get to the analysis at hand.
 
